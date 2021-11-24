@@ -1,4 +1,4 @@
-# Prototyp_Robotyczny_pies
+# Prototyp - Robotyczny pies
 
 ## Opis
 
